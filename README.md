@@ -4,15 +4,15 @@
 
 ## 🚀 Tecnologias
 - Python
+- React
 - SQL
 - Power BI
 - FastAPI
-
 ## 📊 Projetos em destaque
 
 🔹 Data Insight API 
 🔹 SaaS Para Clínicas de Estéticas
-🔹 Notaê ( Controle de gastos com supermercado para famílias ) 
+🔹 SalveiAI ( Controle de gastos com supermercado para famílias ) 
 🔹 Smart Dashboard  
 🔹 AI Candle Pattern Detector  
 
