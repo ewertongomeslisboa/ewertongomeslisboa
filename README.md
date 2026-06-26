@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Ewerton Gomes Lisboa
 
-💻 Desenvolvedor em formação | Python | Dados | APIs
+💻 Desenvolvedor Junior| Python | Dados | APIs
 
 ## 🚀 Tecnologias
 - Python
